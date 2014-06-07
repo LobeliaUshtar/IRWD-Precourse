@@ -1,0 +1,1 @@
+# Arrays contain indexed values while Hashes contain key/value pairs. 
